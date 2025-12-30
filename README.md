@@ -80,7 +80,7 @@
 
 > Looking for a cuddly chatbot?  
 > ❌ Wrong cave.  
-> ✅ This one **bites first**, then logs it 🔪🐺
+> ✅ This one **bites first**, then logs it 🔪🔥
 
 ---
 
@@ -102,7 +102,7 @@
 ---
 
 <p align="center">
-  👤 Built by <b>Silent Wolf</b><br>
+  👤 Built by <b>IAN TECH</b><br>
 
   <i>You're not running a bot.<br>You're unleashing a **predator**.</i>
 </p>
