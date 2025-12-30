@@ -12,17 +12,17 @@
 ⚡🐺<br>
 
 <span style="font-size: 42px;">
-  <b>🅆🄾🄻🄵 ⓑⓞⓣ</b>
+  <b>IAN TECH</b>
 </span><br>
 
-<i><sub>by Silent Wolf •</sub></i>
+<i><sub>by IAN TECH •</sub></i>
 
 </h1>
 
-<p align="center"><i>“Silence kills. So does this bot.”</i></p>
+<p align="center"><i>“IAN TECH. the best bot.”</i></p>
 
 <p align="center">
-  <b>Spawned by <code>Silent Wolf</code>, refined in digital darkness — blessed by Meiser’s shadow 🖤👁️‍🗨️</b>
+  <b>Spawned by <code>Ian Tech</code>, refined in digital darkness — blessed by Meiser’s shadow 🖤👁️‍🗨️</b>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
 ---
 
-## 🚀 Deploy WolfBot Instantly
+## 🚀 Deploy IAN TECH BOT Instantly
 
 <p align="center">
 
