@@ -29,6 +29,15 @@
 </p>
 
 ---
+## ⚔️ Quick Links
+
+<p align="center">
+  <a href="https://wolfbot-pair-1.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/PAIR_NOW-Click_Here-00ff00?style=for-the-badge&logo=vercel&logoColor=white" alt="Pair Now" />
+  </a>
+</p>
+
+---
 
 ## ⚡ Quick Links🔥💫
 
