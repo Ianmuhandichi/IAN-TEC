@@ -29,24 +29,6 @@
 </p>
 
 ---
-## ⚔️ Quick Links
-
-<p align="center">
-  
-    <img src="https://img.shields.io/badge/PAIR_NOW-Click_Here-00ff00?style=for-the-badge&logo=vercel&logoColor=white" alt="Pair Now" />
-  </a>
-</p>
-
----
-
-## ⚡ Quick Links🔥💫
-
-<p align="center">
-  <a href="https://github.com/Ianmuhandichi/IAN-TEC" target="_blank">
-    <img src="https://img.shields.io/badge/PAIR_NOW-Click_Here-00ff00?style=for-the-badge&logo=vercel&logoColor=white" alt="Pair Now" />
-  </a>
-</p>
-
 
 ---
 
@@ -104,7 +86,7 @@
 
 ---
 
-## ⚡ Quick Links
+## ⚡ 🌟Quick Links Repo & Pairing 🌟
 
 <p align="center">
   <a href="https://github.com/Ianmuhandichi/IAN-TEC" target="_blank">
@@ -206,5 +188,5 @@
 <p align="center">
   👤 Built by <b>IAN TECH</b><br>
 
-  <i>You're not running a bot.<br>You're unleashing a **predator**.</i>
+  <i>You're not running a bot.<br>You're unleashing a **IAN TECH**.</i>
 </p>
