@@ -32,7 +32,7 @@
 ## ⚔️ Quick Links
 
 <p align="center">
-  <a href="https://wolfbot-pair-1.onrender.com/" target="_blank">
+  
     <img src="https://img.shields.io/badge/PAIR_NOW-Click_Here-00ff00?style=for-the-badge&logo=vercel&logoColor=white" alt="Pair Now" />
   </a>
 </p>
@@ -110,7 +110,7 @@
   <a href="https://github.com/Ianmuhandichi/IAN-TEC" target="_blank">
     <img src="https://img.shields.io/badge/GitHub_Repo-Click_Here-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
-  <a href="YOUR_PAIRING_LINK_HERE" target="_blank">
+<a href="https://wolfbot-pair-1.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/🔗_Get_Pairing_Code/QR-Click_Here-00ff00?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Pairing QR" />
   </a>
 </p>
