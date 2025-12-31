@@ -30,20 +30,18 @@
 
 ---
 
-## ⚡ Quick Links
+## ⚡ Quick Links🔥💫
 
 <p align="center">
   <a href="https://github.com/Ianmuhandichi/IAN-TEC" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Repo-Click_Here-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
-  </a>
-  <a href="YOUR_PAIRING_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Get_Pairing_Code/QR-Click_Here-00ff00?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Pairing QR" />
+    <img src="https://img.shields.io/badge/PAIR_NOW-Click_Here-00ff00?style=for-the-badge&logo=vercel&logoColor=white" alt="Pair Now" />
   </a>
 </p>
 
+
 ---
 
-## 🚀 Deploy IAN TECH BOT Instantly
+## 🚀 Deploy IAN TECH BOT Instantly🌟⚡
 
 <p align="center">
 <a href="https://heroku.com/deploy?template=https://github.com/Ianmuhandichi/IAN-TEC" target="_blank">
