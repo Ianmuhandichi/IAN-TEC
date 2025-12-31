@@ -1,27 +1,24 @@
 {
-  "name": "WolfBot",
-  "description": "A powerful Baileys WhatsApp bot with wolf-themed features.",
-  "repository": "https://github.com/777Wolf-dot/Silent-Wolf--Bot",
-  "logo": "https://i.ibb.co/HDCwvyhT/wolfbot.jpg",
-  "keywords": ["whatsapp", "bot", "baileys", "wolf", "nodejs"],
+  "name": "IAN TECH",
+  "description": "A powerful Baileys WhatsApp bot engineered for excellence — powered by cutting-edge technology.",
+  "repository": "https://github.com/Ianmuhandichi/IAN-TEC",
+  "logo": "https://files.catbox.moe/f7f4r1.jpg",
+  "keywords": ["whatsapp", "bot", "baileys", "ian-tech", "nodejs"],
 
   "env": {
     "OWNER_NUMBER": {
-      "description": "Enter your WhatsApp number in international format (e.g. 2547xxxxxxx)",
+      "description": "Your WhatsApp number in international format. Example: 254723278526",
+      "value": "254723278526",
       "required": true
     },
    
     "SESSION_ID": {
-      "description": "Paste your generated Session ID here (optional)",
+      "description": "Paste your generated Session ID here to restore an existing session (optional). Leave empty for a new session.",
+      "value": "SILENT-WOLF~eyJwcmVmaXgiOiJTSUxFTlQtV09MRiIsInZlcnNpb24iOiIyLjAiLCJ0aW1lc3RhbXAiOjE3NjcxMjYyNDAxMDAsImRhdGEiOnsiV0FCcm93c2VySWQiOiJCcm93c2VyLUhLSG9lcVFQbXN4NndOQXJNWjFRZkE9PSIsIldBU2VjcmV0QnVuZGxlIjp7ImtleSI6Ikp6aWRLaHZiUmdnU1ZYL2srS2d5dHVnd0xsM01qN3YwT2xrQlVsa3Z1OWs9IiwiZW5jS2V5IjoiR3QyZ052YVJmSjJzWHpMWGM4VGtRQWZiL1A5NlJKcEc4RTlBUU9rbjRzZz0iLCJtYWNLZXkiOiJVdlkyaVE0a0ZBVHR5eG1NV0dUY1dHSmwvTGF5TElrRmNoNitsRHloWHFJPSJ9LCJXQVRva2VuMSI6ImR4SUVld2tOZFArMTFBajBxUTVCRXB3ODVaSW5OVTA4IiwiV0FUb2tlbjIiOiJzb0VxZ0E5aGx6Z0JTWmxrbDR2ajFrSm90VzUrZkVSZSIsImNyZWRzIjp7Im1lIjp7ImlkIjoiMjU0NzIzMjc4NTI2OjY5QHMud2hhdHNhcHAubmV0IiwibmFtZSI6Iklhbk11aGF6IiwibGlkIjoiMjQ3NDExOTI3NDY1Mzo2OUBsaWQifSwicGhvbmVJZCI6InBob25lLTIzNDc1MWM5N2FiMzNlNTgiLCJwbGF0Zm9ybSI6InNtYmEiLCJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjpbMTY4LDEyLDEyOSwxMTcsMjEyLDE2NSw3MSwxNDksMTk2LDM0LDU3LDE3NSwyMTcsMjQ5LDEzMywyMTQsMTk1LDI0OSwxMjYsMTY2LDIxOSwxNjUsMTkyLDIwOSwyMjEsNzksMTgzLDEyMyw3Myw3OSw2Niw3N119LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOlsyNTUsMjM3LDUzLDEwNSwxMjAsMTM0LDIzMywxMTEsMjE3LDE0NywyMTIsMTM0LDExNiw4NywyMDAsMTgzLDIzMywyNDgsMTMwLDIwMCwzNyw2NCwyMTcsMjcsMjE4LDQsMjA4LDEyNSwxNTEsODgsMTMzLDExXX19LCJzaWduZWRJZGVudGl0eUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjpbMTUyLDIxLDk4LDE0MCwxNDAsOTgsMTk2LDE3NSwxMDcsNzMsMjQ1LDQ4LDE5NSwxNDgsMjEzLDgyLDMyLDg4LDE4NCwzMywxMDMsMTYyLDE4LDczLDU0LDY3LDE0MiwzMSwzMiwxNjUsMTY4LDg3XX0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6WzIwMCw0NiwxNzEsNjAsMTU1LDE4Niw5Myw5MywxNDksMjU1LDIwNCw4OCwxNywyMTQsMTI0LDEyMCwxNzcsMjcsMjEwLDI5LDI0Nyw2OCwyMDgsMTIxLDIwNiwxNzgsNzIsNjIsMjEyLDE0MCwxODgsNDFdfX0sInNpZ25lZFByZUtleSI6eyJrZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOls4OCwxMTcsMTAxLDI1Miw5Miw0OSwxMzEsMjQ2LDYzLDksMjM0LDc0LDEzNiwxNzAsMjAzLDEzLDYxLDE0MywxNjYsNDAsNDAsNDUsMTE1LDE0MywxODEsMjM3LDUyLDE1OCwyMzksMTIxLDE0NiwxMjFdfSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjpbOTksMTUsMTg2LDM2LDg0LDIwNyw1Nyw2MCwyMTgsMTIwLDExOCwyLDIwLDgsMTQxLDgxLDIwNiw3NiwxMSwxMjYsMjQ4LDIxMiw1NywxOTgsMjI1LDE1MiwzNCwyMjksMTE5LDI0OCwyMjQsNjFdfX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6WzIyLDkzLDMsMzIsMTczLDIyMywyMjIsMjMzLDUzLDE1LDAsMTgyLDMyLDIxMSw2OCwxNzYsMjE1LDI2LDIzOCwxMjMsOTQsODcsNzMsMTEsNiwxODYsMTQ0LDUsNSwyMjcsMTA3LDEzNSwxNTEsMTM1LDE5OCw0MSw2Nyw5NywxNDgsMTM4LDIwNyw3NCwyMjQsMTk1LDksNzksMTEwLDIzMywyMDIsMTc4LDE0NCw4MywxOTUsMzMsNDIsMTk5LDExMSwxMDEsOTgsMTg5LDI0NCw4Myw2MywxNDJdfSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NzEsImFkdlNlY3JldEtleSI6IjMybENlSXlSU3RJTmJ5bW9zcFNyekhzYnNpcGtNZEFsbXd6YjgzaE4xNk09In0sImtleXMiOnt9fSwic2lnbmF0dXJlIjoiYjQ1OWY5OWRjMTZhNDRmMyIsIm1ldGFkYXRhIjp7ImdlbmVyYXRvciI6IlNpbGVudCBXb2xmIEdlbmVyYXRvciIsImNvbXBhdGlibGVXaXRoIjoid2hhdHNhcHAtd2ViLmpzIiwiZm9ybWF0Ijoid3dlYi1jb252ZXJ0ZWQifX0=",
       "required": false
     }
-   
-      },
-    
-    
-    
+  },
   
-
   "buildpacks": [
     { "url": "heroku/nodejs" }
   ]
